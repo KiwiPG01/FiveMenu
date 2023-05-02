@@ -1,0 +1,1 @@
+//emitNet({EventName}, [Value])
